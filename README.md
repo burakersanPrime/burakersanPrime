@@ -1,5 +1,12 @@
-Hello 👋. I am Burak, I am studying Computer Programming at Izmir University of Economics. I aim to improve myself on object-oriented programming languages.
+                       Hi. 
+👱‍♂️ › I am Burak.
+💻 › I am studying Computer Programming at Izmir University of Economics. 
+💼 › I aim to improve myself in object-oriented programming languages ​​such as Java, C# and Python. These days, besides my classes, I am very interested in Android development. I strongly consider moving myself in this direction.
 
+                       🎯 My Skills
+                   › Java
+In Junior Position › C# 
+                   › Python
 <!--
 **burakersanPrime/burakersanPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
