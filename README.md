@@ -1,9 +1,9 @@
-                       Hi. 
+Hi. 
 👱‍♂️ › I am Burak.
 💻 › I am studying Computer Programming at Izmir University of Economics. 
 💼 › I aim to improve myself in object-oriented programming languages ​​such as Java, C# and Python. These days, besides my classes, I am very interested in Android development. I strongly consider moving myself in this direction.
 
-                       🎯 My Skills
+🎯 My Skills
                    › Java
 In Junior Position › C# 
                    › Python
