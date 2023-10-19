@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello 👋. I am Burak, I am studying Computer Programming at Izmir University of Economics. I aim to improve myself on object-oriented programming languages.
 
 <!--
 **burakersanPrime/burakersanPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
