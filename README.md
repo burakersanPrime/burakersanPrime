@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">📚 ⇀ I am studying Computer Programming at Izmir University of Economics.<br>―――――――――――――――――――――――――――――――――――――――――――――<br>🔭 ⇀ I aim to improve myself in object-oriented programming languages ​​such as Java, C# and Python.<br>―――――――――――――――――――――――――――――――――――――――――――――<br>📱⇀ Currently, I want to 	improve myself on Android Studio and focus on the mobile side using Android and flutter.</p>
+<p align="left">📚 ⇀ I am studying Computer Programming at Izmir University of Economics.<br>―――――――――――――――――――――――――――――――――――――――――――――<br>🔭 ⇀ I aim to improve myself in object-oriented programming languages ​​such as Java, C# and Python.<br>―――――――――――――――――――――――――――――――――――――――――――――<br> I am trying to improve myself on web development as well as object oriented programming languages.
+
+ Like HTML - CSS - JavaScript</p>
 
 ###
 
@@ -22,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
