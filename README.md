@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 ⇀ I am studying Computer Programming at Izmir University of Economics.<br>―――――――――――――――――――――――――――――――――――――――――――――<br>🔭 ⇀ I aim to improve myself in object-oriented programming languages ​​such as Java, C# and Python.<br>―――――――――――――――――――――――――――――――――――――――――――――<br> I am trying to improve myself on web development as well as object oriented programming languages.
+<p align="left"> ⇀ I am studying Computer Programming at Izmir University of Economics.<br>―――――――――――――――――――――――――――――――――――――――――――――<br> ⇀ I aim to improve myself in object-oriented programming languages ​​such as Java, C# and Python.<br>―――――――――――――――――――――――――――――――――――――――――――――<br> ⇀ I am trying to improve myself on web development as well as object oriented programming languages.
 
  Like HTML - CSS - JavaScript</p>
 
