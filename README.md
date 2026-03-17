@@ -1,19 +1,19 @@
 <h4 align="left">Merhaba, Ben Burak</h4>
 
-Bilgisayar Programcılığı mezunuyum ve Yönetim Bilişim Sistemleri bölümünde eğitimime devam ediyorum. Teknolojiyle ilgili yeni şeyler öğrenmek ve kavramların nasıl çalıştığını anlamak benim için hem bir merak hem de bir motivasyon kaynağı.
+Bilgisayar Programcılığı mezunuyum ve Yönetim Bilişim Sistemleri bölümünde eğitimime devam ediyorum. Teknoloji ve yazılım alanında çalışan bir geliştirici olarak özellikle sistemlerin nasıl çalıştığını anlamaya ve bu sistemlere gerçek katkı sağlayacak çözümler üretmeye odaklanıyorum.
 
-Yazılım geliştirme, sistem entegrasyonu, ağ iletişimi ve veri akışlarıyla ilgileniyorum. Şu anda elektronik güvenlik, geçiş kontrol ve personel devam kontrol sistemlerinde teknik operasyon ve sistem entegrasyonu ile çalışıyorum. Bu süreçte cihazların sisteme dahil edilmesi, veri akışlarının iş mantığına uygun şekilde yürütülmesi ve sistem davranışlarının doğrulanması üzerine pratik deneyim kazanıyorum.
+Günlük çalışmalarımda kurumsal uygulamalar ve kullanıcı sistemleri üzerinde çalışarak ortaya çıkan teknik problemleri analiz ediyor ve çözüm süreçlerine katkıda bulunuyorum. Backend tarafında API yapıları, veri modelleme, veritabanı ilişkileri ve uygulama mantığı gibi konular üzerinde çalışıyor; ASP.NET Web API, Entity Framework ve SQL tabanlı sistemlerle üretim ortamında çalışan yazılımların veri akışını ve servis yapısını deneyimliyorum.
 
-Bunun yanında mobil uygulama geliştirme ve özellikle iOS ekosistemi de ilgi alanımda. Bu alanlarda kendimi besleyerek ileride sistem bilgisi ile uygulama geliştirmeyi birleştirmeyi hedefliyorum.
+Uzun vadede hedefim; sistemleri bütünsel olarak anlayabilen, teknik olarak sürekli gelişen ve gerçek dünya problemlerine sürdürülebilir çözümler üretebilen bir yazılım geliştirici olmak.
 
 
 --------------------------------------------------------------
 
 <h4 align="left">Hi, I'm Burak</h4>
 
-I graduated in Computer Programming and I'm currently studying Management Information Systems. I'm motivated by understanding how systems work, how data flows, and how different layers of technology interact.
+I graduated in Computer Programming and currently continue my education in Management Information Systems. As a software developer working in the technology field, I focus on understanding how systems operate and contributing practical solutions that add real value to the systems I work on.
 
-I'm interested in software development, system integration, networking and data-driven workflows. Currently, I work in the electronic security, access control and workforce attendance domain, focusing on technical operations and system integration. This includes onboarding devices into the system, aligning data flows with business logic and validating system behavior in real environments.
+In my daily work, I operate on enterprise applications and user systems while analyzing technical issues and contributing to resolution processes. On the backend side, I work with concepts such as API structures, data modeling, database relationships, and application logic while gaining hands-on experience with ASP.NET Web API, Entity Framework, and SQL-based systems in production environments.
 
-I'm also exploring mobile development, especially within the iOS ecosystem, and aim to combine system-level understanding with application development in the future.
+My long-term goal is to become a software developer who understands systems holistically, continuously evolves technically, and builds sustainable solutions for real-world problems.
 
