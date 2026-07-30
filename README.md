@@ -1,19 +1,23 @@
 <h4 align="left">Merhaba, Ben Burak</h4>
 
-Bilgisayar Programcılığı mezunuyum ve Yönetim Bilişim Sistemleri bölümünde eğitimime devam ediyorum. Teknoloji ve yazılım alanında çalışan bir geliştirici olarak özellikle sistemlerin nasıl çalıştığını anlamaya ve bu sistemlere gerçek katkı sağlayacak çözümler üretmeye odaklanıyorum.
+Bilgisayar Programcılığı mezunuyum ve Yönetim Bilişim Sistemleri bölümünde eğitimime devam ediyorum. Kurumsal bilgi teknolojileri ortamında sistem desteği, son kullanıcı hizmetleri ve teknik sorun giderme süreçlerinde aktif olarak çalışıyorum.
 
-Günlük çalışmalarımda kurumsal uygulamalar ve kullanıcı sistemleri üzerinde çalışarak ortaya çıkan teknik problemleri analiz ediyor ve çözüm süreçlerine katkıda bulunuyorum. Backend tarafında API yapıları, veri modelleme, veritabanı ilişkileri ve uygulama mantığı gibi konular üzerinde çalışıyor; ASP.NET Web API, Entity Framework ve SQL tabanlı sistemlerle üretim ortamında çalışan yazılımların veri akışını ve servis yapısını deneyimliyorum.
+Günlük çalışmalarımda Windows istemci sistemleri, Microsoft 365, Active Directory, Outlook/Exchange, ağ bağlantıları, yazıcı ve tarayıcı sistemleriyle ilgili teknik problemlerin analizini ve çözümünü gerçekleştiriyorum. Donanım ve yazılım kurulumları, kullanıcı hesapları ve erişim sorunları, uzaktan destek, cihaz envanteri ve uç nokta yönetimi süreçlerine destek sağlıyorum.
 
-Uzun vadede hedefim; sistemleri bütünsel olarak anlayabilen, teknik olarak sürekli gelişen ve gerçek dünya problemlerine sürdürülebilir çözümler üretebilen bir yazılım geliştirici olmak.
+Tanium, CrowdStrike, Zscaler ve BeyondTrust gibi kurumsal yönetim ve güvenlik araçlarıyla çalışıyor; farklı lokasyonlardaki kullanıcılar ve uluslararası BT ekipleriyle koordineli şekilde teknik süreçleri takip ediyorum.
+
+Yazılım geçmişim sayesinde API yapıları, veri modelleme, veritabanı ilişkileri ve uygulama mantığı konularına da hâkimim. ASP.NET Core Web API, Entity Framework ve SQL tabanlı teknolojilerle backend uygulamaları geliştiriyorum.
 
 
 --------------------------------------------------------------
 
+
 <h4 align="left">Hi, I'm Burak</h4>
 
-I graduated in Computer Programming and currently continue my education in Management Information Systems. As a software developer working in the technology field, I focus on understanding how systems operate and contributing practical solutions that add real value to the systems I work on.
+I graduated in Computer Programming and currently continue my education in Management Information Systems. I work in an enterprise IT environment, actively supporting system operations, end-user services, and technical troubleshooting processes.
 
-In my daily work, I operate on enterprise applications and user systems while analyzing technical issues and contributing to resolution processes. On the backend side, I work with concepts such as API structures, data modeling, database relationships, and application logic while gaining hands-on experience with ASP.NET Web API, Entity Framework, and SQL-based systems in production environments.
+In my daily work, I analyze and resolve technical issues related to Windows client systems, Microsoft 365, Active Directory, Outlook/Exchange, network connectivity, printers, and scanning systems. I also support hardware and software installations, user accounts and access issues, remote assistance, device inventory, and endpoint management processes.
 
-My long-term goal is to become a software developer who understands systems holistically, continuously evolves technically, and builds sustainable solutions for real-world problems.
+I work with enterprise management and security tools such as Tanium, CrowdStrike, Zscaler, and BeyondTrust while coordinating technical activities with users across multiple locations and international IT teams.
 
+With my software development background, I also have experience in API structures, data modeling, database relationships, and application logic. I develop backend applications using ASP.NET Core Web API, Entity Framework, and SQL-based technologies.
